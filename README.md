@@ -7,7 +7,7 @@
 <h3> Student at the Federal University of Ceará, Campus Quixadá, Brazil 🇧🇷 </h3>
 
 <br/>
-<img src="icons/driven-logo.png" align="right" width="300" border-radius="25px">
+<img src="icons/driven-logo.png" align="right" width="100">
 <h4>I'm currently in FullStack Training at Driven</h4>
 
 <br/>
