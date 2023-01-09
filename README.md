@@ -12,7 +12,7 @@
 
 <br/>
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div style="display: inline_block" align="center" gap="15px">
     <img width="500rem" src="https://github-readme-stats.vercel.app/api?username=Matt-Rodrigues-EC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <br/>
     <img width="500rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Matt-Rodrigues-EC&layout=compact&langs_count=7&theme=tokyonight" />
@@ -26,7 +26,7 @@
   #
   <h3>Contact with me:</h3>
   
-<div align="center">
+<div style="display: inline_block" align="center" gap="10px">
     <a href="https://t.me/Skeeshiro" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/matt_rodrigues.ec/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://linkedin.com/in/matheus-rodrigues-ec/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
