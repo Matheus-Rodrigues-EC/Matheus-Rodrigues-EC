@@ -12,7 +12,7 @@
 
 <br/>
 
-<div align-items="center" gap="25px" >
+<div style="display: flex; flex-direction: column; align-items: center;">
     <img width="500rem" src="https://github-readme-stats.vercel.app/api?username=Matt-Rodrigues-EC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <br/>
     <img width="500rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Matt-Rodrigues-EC&layout=compact&langs_count=7&theme=tokyonight" />
