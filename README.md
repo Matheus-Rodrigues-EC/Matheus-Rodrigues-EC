@@ -13,11 +13,11 @@
 <br/>
 
 <div style="display: inline_block" align="center" gap="15px">
-    <img width="500rem" src="https://github-readme-stats.vercel.app/api?username=Matt-Rodrigues-EC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img width="500rem" src="https://github-readme-stats.vercel.app/api?user=Matt-Rodrigues-EC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <br/>
     <img width="500rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Matt-Rodrigues-EC&layout=compact&langs_count=7&theme=tokyonight" />
     <br/>
-    <img width="500rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matt-Rodrigues-EC&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img width="500rem" src="https://github-readme-stats.vercel.app/api/top-langs/?user=Matt-Rodrigues-EC&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <br/>
 </div>
   
