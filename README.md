@@ -13,11 +13,11 @@
 <br/>
 
 <div style="display: inline_block" align="center" gap="15px">
-    <img width="500rem" src="https://github-readme-stats.vercel.app/api?username=Matt-Rodrigues-EC&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img width="500rem" src="https://github-readme-stats.vercel.app/api?username=Matheus-Rodrigues-EC&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <br/>
-    <img width="500rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Matt-Rodrigues-EC&layout=compact&langs_count=7&theme=midnight-purple" />
+    <img width="500rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Rodrigues-EC&layout=compact&langs_count=7&theme=midnight-purple" />
     <br/>
-    <img width="500rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matt-Rodrigues-EC&layout=compact&langs_count=7&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img width="500rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Rodrigues-EC&layout=compact&langs_count=7&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <br/>
 </div>
   
@@ -36,13 +36,13 @@
 
   #
   <div style="display: inline_block" align="center" gap="10px"><br>
-  <img align="center" alt="Matt-Rodrigues-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Matt-Rodrigues-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matt-Rodrigues-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Matt-Rodrigues-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Matt-Rodrigues-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Matt-Rodrigues-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Matt-Rodrigues-PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Matt-Rodrigues-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
-  <img align="center" alt="Matt-Rodrigues-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Matheus-Rodrigues-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Matheus-Rodrigues-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Matheus-Rodrigues-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Matheus-Rodrigues-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Matheus-Rodrigues-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Matheus-Rodrigues-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Matheus-Rodrigues-PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Matheus-Rodrigues-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+  <img align="center" alt="Matheus-Rodrigues-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
