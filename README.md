@@ -5,30 +5,30 @@
 </div>
 
 <h2>O que saber sobre mim?</h2>
-<h4>Meu nome é Matheus, tenho 25 anos, sou desenvolvedor Fullstack, utilizo Node.js e Nest.js como ferramenta de Back-end e, React.js e Vue.js como ferramenra de Front-end.</h4>
-<h4>Certamenta minha história não começou agora. Antes de iniciar na área da tecnologia fiz parte da área de alimentos, tenho curso técnico na área. Entretanto, desde pequeno gostava de resolver problemas de lógica e "mexer" em componentes eletrônicos, atualmente estou cusrsando Engenharia de Computação, e finalmente me sinto realizado, já que estou na área de TI. Hoje resolvo problemas através do código!</h4>
+<h4>Meu nome é Matheus, tenho 25 anos, sou desenvolvedor Fullstack, utilizo Node.js e Nest.js como ferramentas de Back-end e, React.js e Vue.js como ferramentas de Front-end.</h4>
+<h4>Certamenta minha história não começou agora. Antes de iniciar na área da tecnologia fiz parte da área de alimentos e tenho curso técnico na área. Entretanto, desde pequeno gostava de resolver problemas de lógica e "mexer" em componentes eletrônicos, atualmente estou cusrsando Engenharia de Computação, e finalmente me sinto realizado, já que estou na área de TI. Hoje resolvo problemas através do código!</h4>
 
 <h2>Minha trajetória</h2>
-<h4>Todos os dias busco melhoras minhas habilidades, sempre trabalhando para melhorar meu autodidatismo e minha capacídade de assimilar mais informações, assim aprendendo novas tecnologias. Além disso, a cada dia busco praticar e melhorar minha habilidades interpessoais, tais como trabalho em equipe e metodologias ágeis, bem como feedbaks mútuos</h4>
+<h4>Todos os dias busco melhorar minhas habilidades, sempre trabalhando para aperfeiçoar meu autodidatismo e minha capacídade de assimilar mais informações, assim aprendendo novas tecnologias. Além disso, a cada dia busco praticar e melhorar minha habilidades interpessoais, tais como trabalho em equipe e metodologias ágeis, bem como feedbaks mútuos</h4>
 <br/>
 
 
 <h2>Atualmente utilizo as seguintes Stacks.</h2>
  <div style="display: flex wrap" align="center" gap="10px"><br>
-  <img align="center" alt="Matheus-Rodrigues-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Matheus-Rodrigues-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-Rodrigues-JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Matheus-Rodrigues-TS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Matheus-Rodrigues-Node" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="Matheus-Rodrigues-Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />
-  <img align="center" alt="Matheus-Rodrigues-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Matheus-Rodrigues-Vue" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Matheus-Rodrigues-MongoDB" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
-  <img align="center" alt="Matheus-Rodrigues-PostgreSQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
-  <img align="center" alt="Matheus-Rodrigues-C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-  <img align="center" alt="Matheus-Rodrigues-Figma" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
-  <img align="center" alt="Matheus-Rodrigues-Trello" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"/>
-  <img align="center" alt="Matheus-Rodrigues-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Matheus-Rodrigues-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Matheus-Rodrigues-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Matheus-Rodrigues-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Matheus-Rodrigues-TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Matheus-Rodrigues-Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="Matheus-Rodrigues-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />
+  <img align="center" alt="Matheus-Rodrigues-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Matheus-Rodrigues-Vue" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="Matheus-Rodrigues-MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
+  <img align="center" alt="Matheus-Rodrigues-PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+  <img align="center" alt="Matheus-Rodrigues-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+  <img align="center" alt="Matheus-Rodrigues-Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
+  <img align="center" alt="Matheus-Rodrigues-Trello" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"/>
+  <img align="center" alt="Matheus-Rodrigues-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 </br>
