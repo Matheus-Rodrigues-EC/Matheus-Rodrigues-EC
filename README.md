@@ -14,25 +14,50 @@
 
 
 <h2>Atualmente utilizo as seguintes Stacks.</h2>
- <div style="display: flex wrap" align="center" gap="10px"><br>
-  <img align="center" alt="Matheus-Rodrigues-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Matheus-Rodrigues-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-Rodrigues-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Matheus-Rodrigues-TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Matheus-Rodrigues-Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="Matheus-Rodrigues-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />
-  <img align="center" alt="Matheus-Rodrigues-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Matheus-Rodrigues-Vue" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Matheus-Rodrigues-MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
-  <img align="center" alt="Matheus-Rodrigues-PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
-  <img align="center" alt="Matheus-Rodrigues-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-  <img align="center" alt="Matheus-Rodrigues-Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
-  <img align="center" alt="Matheus-Rodrigues-Trello" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"/>
-  <img align="center" alt="Matheus-Rodrigues-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+
+
+ <div style="display: flex; flex-direction: column;aling-items: center; gap: 5px; justify-content: space-around">
+  <h3>Front-End</h3>
+  <div style="display:flex; flex-wrap: wrap; align: center; gap: 10px" >
+    <img  alt="Matheus-Rodrigues-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img  height="30" alt="Matheus-Rodrigues-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img  alt="Matheus-Rodrigues-JS" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img  alt="Matheus-Rodrigues-TS" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img  alt="Matheus-Rodrigues-React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img  alt="Matheus-Rodrigues-Axios" height="30" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=whit">
+    <img  alt="Matheus-Rodrigues-Styled-Components" height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+    <img alt="Matheus-Rodrigues-Vue.js" height="30" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+    <img alt="Matheus-Rodrigues-Bootstrap" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img  alt="Matheus-Rodrigues-Figma" height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  </div>
+
+  <h3>Back-End</h3>
+  <div style="display:flex; flex-wrap: wrap;  align-items: center; gap: 10px" >
+    <img  alt="Matheus-Rodrigues-Node" height="30" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img  alt="Matheus-Rodrigues-Nest" height="30" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+    <img  alt="Matheus-Rodrigues-Express" height="30" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+    <img  alt="Matheus-Rodrigues-MongoDB" height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img  alt="Matheus-Rodrigues-PostgreSQL" height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </div>
+
+  <h3>Ferramentas</h3>
+  <div style="display:flex; flex-wrap: wrap; align: center; gap: 10px">
+    <img  alt="Matheus-Rodrigues-Git" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+    <img  alt="Matheus-Rodrigues-Trello" height="30" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+    <img  alt="Matheus-Rodrigues-Trello" height="30" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img  alt="Matheus-Rodrigues-Canva" height="30" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+  </div>
+
+  <h3></h3>
+
+  
+  
+
 </div>
 
 </br>
-<div style="display: flex column"  align="center" gap="15px">
+<div style="display: flex column"   gap="15px">
     <img width="500rem" src="https://github-readme-stats.vercel.app/api?username=Matheus-Rodrigues-EC&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <br/>
     <img width="500rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Rodrigues-EC&layout=compact&langs_count=7&theme=midnight-purple" />
@@ -47,12 +72,11 @@
   #
   <h3>Você me encontra aqui, fique a vontade para me mandar uma mensagem:</h3>
   
-<div style="display: inline-block" justify-content="space-around" gap="10px">
+<div style="display: flex; justify-content: space-around; align-items: center; gap: 10px">
     <a href="https://t.me/Skeeshiro" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/matt_rodrigues.ec/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://linkedin.com/in/matheus-rodrigues-ec/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNHjpJgmHvPZlTshTVjccDmPMGpnqlrFlqtXTcxlrRPbHBTsqfKGxtZWpQHMmKNbfzkmL"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href = "https://wa.me/+5585992699074"><img src="https://img.shields.io/badge/-Whatsapp-%23333?style=for-the-badge&logo=whatsapp" target="_blank"></a>
   </div>
 
   #
