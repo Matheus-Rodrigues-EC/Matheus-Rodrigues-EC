@@ -91,11 +91,11 @@ Meu nome é Matheus, tenho 25 anos, sou desenvolvedor Fullstack, utilizo Node.js
 #
 
 <div style="display: flex; flex-direction: column; gap: 5px; align-items: center; width: 100vw;">
-    <img width="500rem" src="https://github-readme-stats.vercel.app/api?username=Matheus-Rodrigues-EC&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img style="margin: auto" width="500rem" src="https://github-readme-stats.vercel.app/api?username=Matheus-Rodrigues-EC&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <br/>
-    <img width="500rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Rodrigues-EC&layout=compact&langs_count=7&theme=midnight-purple" />
+    <img style="margin: auto" width="500rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Rodrigues-EC&layout=compact&langs_count=7&theme=midnight-purple" />
     <br/>
-    <img width="500rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Rodrigues-EC&layout=compact&langs_count=7&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img style="margin: auto" width="500rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Rodrigues-EC&layout=compact&langs_count=7&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <br/>
 </div>
   
