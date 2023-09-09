@@ -18,7 +18,7 @@ Meu nome é Matheus, tenho 25 anos, sou desenvolvedor Fullstack, utilizo Node.js
 
 
 
- <div style="display: flex; flex-direction: column;aling-items: center; gap: 5px; justify-content: space-evenly; width: 100%">
+ <div style="display: flex; flex-direction: column;aling-items: center; gap: 5px; justify-content: space-evenly; width: 100vw">
   <h3>Front-End</h3>
   <div style="display:flex; flex-wrap: wrap; align-items: center; gap: 10px; justify-content: space-evenly; width: 100%" >
     <img  alt="Matheus-Rodrigues-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -90,7 +90,7 @@ Meu nome é Matheus, tenho 25 anos, sou desenvolvedor Fullstack, utilizo Node.js
 
 #
 
-<div style="display: flex; flex-direction: column; gap: 5px; align-items: center;">
+<div style="display: flex; flex-direction: column; gap: 5px; align-items: center; width: 100vw;">
     <img width="500rem" src="https://github-readme-stats.vercel.app/api?username=Matheus-Rodrigues-EC&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <br/>
     <img width="500rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Rodrigues-EC&layout=compact&langs_count=7&theme=midnight-purple" />
@@ -105,7 +105,7 @@ Meu nome é Matheus, tenho 25 anos, sou desenvolvedor Fullstack, utilizo Node.js
   #
   <h3>Você me encontra aqui, fique a vontade para me mandar uma mensagem:</h3>
   
-<div style="display: flex; justify-content: space-around; align-items: center; gap: 10px">
+<div style="display: flex; justify-content: space-around; align-items: center; gap: 10px; width: 100vw">
     <a href="https://t.me/Skeeshiro" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/matt_rodrigues.ec/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://linkedin.com/in/matheus-rodrigues-ec/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
