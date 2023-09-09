@@ -20,7 +20,7 @@ Meu nome é Matheus, tenho 25 anos, sou desenvolvedor Fullstack, utilizo Node.js
 
  <div style="display: flex; flex-direction: column;aling-items: center; gap: 5px; justify-content: space-evenly; width: 100%">
   <h3>Front-End</h3>
-  <div style="display:flex; flex-wrap: wrap; align: center; gap: 10px; justify-content: space-evenly; width: 100%"" >
+  <div style="display:flex; flex-wrap: wrap; align-items: center; gap: 10px; justify-content: space-evenly; width: 100%" >
     <img  alt="Matheus-Rodrigues-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img  height="30" alt="Matheus-Rodrigues-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img  alt="Matheus-Rodrigues-JS" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -55,7 +55,7 @@ Meu nome é Matheus, tenho 25 anos, sou desenvolvedor Fullstack, utilizo Node.js
   </div>
 
   <h3>Ferramentas</h3>
-  <div style="display:flex; flex-wrap: wrap; align: center; gap: 10px; justify-content: space-evenly; width: 100%">
+  <div style="display:flex; flex-wrap: wrap; align-items: center; gap: 10px; justify-content: space-evenly; width: 100%">
     <img  alt="Matheus-Rodrigues-Git" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     <img  alt="Matheus-Rodrigues-Trello" height="30" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
     <img  alt="Matheus-Rodrigues-Trello" height="30" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -67,7 +67,7 @@ Meu nome é Matheus, tenho 25 anos, sou desenvolvedor Fullstack, utilizo Node.js
   </div>
 
   <h3>Baixo Nível</h3>
-  <div style="display:flex; flex-wrap: wrap; align: center; gap: 10px; justify-content: space-evenly; width: 100%">
+  <div style="display:flex; flex-wrap: wrap; align-items: center; gap: 10px; justify-content: space-evenly; width: 100%">
   <img  alt="Matheus-Rodrigues-CMake" height="30" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
   <img  alt="Matheus-Rodrigues-C" height="30" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img  alt="Matheus-Rodrigues-C++" height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -75,13 +75,13 @@ Meu nome é Matheus, tenho 25 anos, sou desenvolvedor Fullstack, utilizo Node.js
   </div>
 
   <h3>Sistemas Operacionais</h3>
-  <div style="display:flex; flex-wrap: wrap; align: center; gap: 10px; justify-content: space-evenly; width: 100%">
+  <div style="display:flex; flex-wrap: wrap; align-items: center; gap: 10px; justify-content: space-evenly; width: 100%">
   <img  alt="Matheus-Rodrigues-Windows10" height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img  alt="Matheus-Rodrigues-ZorinOS" height="30" src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"/>
   </div>
 
   <h3>Iniciarei os estudos em breve</h3>
-  <di style="display:flex; flex-wrap: wrap; align: center; gap: 10px; justify-content: space-evenly; width: 100%">
+  <di style="display:flex; flex-wrap: wrap; align-items: center; gap: 10px; justify-content: space-evenly; width: 100%">
   <img  alt="Matheus-Rodrigues-PHP" height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img  alt="Matheus-Rodrigues-Laravel" height="30" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   </di>
@@ -90,7 +90,7 @@ Meu nome é Matheus, tenho 25 anos, sou desenvolvedor Fullstack, utilizo Node.js
 
 #
 
-<div style="display: flex; flex-direction: column; gap: 5px">
+<div style="display: flex; flex-direction: column; gap: 5px; align-items: center;">
     <img width="500rem" src="https://github-readme-stats.vercel.app/api?username=Matheus-Rodrigues-EC&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <br/>
     <img width="500rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Rodrigues-EC&layout=compact&langs_count=7&theme=midnight-purple" />
