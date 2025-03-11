@@ -1,12 +1,12 @@
 <h2 align-text="center">Olá, bem-vindo(a) ao meu domínio. Fique a vontade para dar uma olhada!<h2>
 
 <div align-text=center>
-  <img src="https://readme-typing-svg.herokuapp.com/?color=%2300ff48&size=32&center=true&vCenter=true&width=800&height=75&lines=Computer+Engineering+Student;FullStack+Developer" alt="Headline"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%2300ff48&size=32&center=true&vCenter=true&width=800&height=75&lines=Software+Engineering;FullStack+Developer" alt="Headline"/>
 </div>
 
 <h2>O que saber sobre mim?</h2>
 <p style="display: flex; text-align:justify">
-Meu nome é Matheus, tenho 25 anos, sou desenvolvedor Fullstack, utilizo Node.js e Nest.js como ferramentas de Back-end e, React.js e Vue.js como ferramentas de Front-end.</p>
+Meu nome é Matheus, tenho 27 anos, sou desenvolvedor Fullstack, utilizo Node.js e Nest.js como ferramentas de Back-end e, React.js e Vue.js como ferramentas de Front-end.</p>
 <p style="display: flex; text-align:justify">Certamenta minha história não começou agora. Antes de iniciar na área da tecnologia fiz parte da área de alimentos e tenho curso técnico na área. Entretanto, desde pequeno gostava de resolver problemas de lógica e "mexer" em componentes eletrônicos, atualmente estou cusrsando Engenharia de Computação, e finalmente me sinto realizado, já que estou na área de TI. Hoje resolvo problemas através do código!</p>
 
 <h2>Minha trajetória</h2>
