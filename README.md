@@ -10,7 +10,7 @@ Meu nome é Matheus, tenho 27 anos, sou desenvolvedor Fullstack. Utilizo Node.js
 <p style="display: flex; text-align:justify">Certamente minha história não começou agora. Antes de iniciar na área da tecnologia, fiz parte da área de alimentos e tenho curso técnico na área. Entretanto, desde pequeno gostava de resolver problemas de lógica e "mexer" em componentes eletrônicos. Atualmente estou cursando Sistemas de Informação e me sinto realizado na área de TI. Hoje resolvo problemas através do código!</p>
 
 <h2>Minha trajetória</h2>
-<p style="display: flex; text-align:justify">Todos os dias busco melhorar minhas habilidades, sempre trabalhando para aperfeiçoar meu autodidatismo e minha capacidade de assimilar mais informações, assim aprendendo novas tecnologias. Além disso, a cada dia busco praticar e melhorar minhas habilidades interpessoais, como trabalho em equipe e metodologias ágeis, bem como feedbaks mútuos</p>
+<p style="display: flex; text-align:justify">Todos os dias busco melhorar minhas habilidades, sempre trabalhando para aperfeiçoar meu autodidatismo e minha capacidade de assimilar mais informações, assim aprendendo novas tecnologias. Além disso, a cada dia busco praticar e melhorar minhas habilidades interpessoais, como trabalho em equipe e metodologias ágeis, bem como feedbaks mútuos.</p>
 <br/>
 
 
