@@ -7,7 +7,7 @@
 <h2>O que saber sobre mim?</h2>
 <p style="display: flex; text-align:justify">
 Meu nome é Matheus, tenho 27 anos, sou desenvolvedor Fullstack, utilizo Node.js e Nest.js como ferramentas de Back-end e, React.js e Vue.js como ferramentas de Front-end.</p>
-<p style="display: flex; text-align:justify">Certamenta minha história não começou agora. Antes de iniciar na área da tecnologia fiz parte da área de alimentos e tenho curso técnico na área. Entretanto, desde pequeno gostava de resolver problemas de lógica e "mexer" em componentes eletrônicos, atualmente estou cusrsando Engenharia de Computação, e finalmente me sinto realizado, já que estou na área de TI. Hoje resolvo problemas através do código!</p>
+<p style="display: flex; text-align:justify">Certamenta minha história não começou agora. Antes de iniciar na área da tecnologia fiz parte da área de alimentos e tenho curso técnico na área. Entretanto, desde pequeno gostava de resolver problemas de lógica e "mexer" em componentes eletrônicos, atualmente estou cusrsando Sistemas de Informação, e finalmente me sinto realizado, já que estou na área de TI. Hoje resolvo problemas através do código!</p>
 
 <h2>Minha trajetória</h2>
 <p style="display: flex; text-align:justify">Todos os dias busco melhorar minhas habilidades, sempre trabalhando para aperfeiçoar meu autodidatismo e minha capacídade de assimilar mais informações, assim aprendendo novas tecnologias. Além disso, a cada dia busco praticar e melhorar minha habilidades interpessoais, tais como trabalho em equipe e metodologias ágeis, bem como feedbaks mútuos</p>
