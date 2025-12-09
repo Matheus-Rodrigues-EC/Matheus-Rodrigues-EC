@@ -105,7 +105,7 @@ Next.js · Python · Ruby · Kubernetes · AWS
 
 [![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Rodrigues-EC&show_icons=true&theme=dark&hide=contribs&count_private=true)](https://github.com/Matheus-Rodrigues-EC)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Matheus-Rodrigues-EC&theme=midnight-purple&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Matheus-Rodrigues-EC&theme=midnight-purple" alt="GitHub Streak" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Rodrigues-EC&layout=compact&theme=dark)](https://github.com/Matheus-Rodrigues-EC)
 
